@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-06T11:10:24.518Z</updated>
+  <updated>2022-04-07T12:11:42.717Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>模板</title>
+    <link href="http://example.com/2022/04/07/%E6%A8%A1%E6%9D%BF/"/>
+    <id>http://example.com/2022/04/07/%E6%A8%A1%E6%9D%BF/</id>
+    <published>2022-04-07T05:54:50.000Z</published>
+    <updated>2022-04-07T12:11:42.717Z</updated>
+    
+    <content type="html"><![CDATA[<p>臣亮言：<mark class="hl-label default">先帝</mark> 創業未半，而<mark class="hl-label blue">中道崩殂</mark> 。今天下三分，<mark class="hl-label pink">益州疲敝</mark> ，此誠<mark class="hl-label red">危急存亡之秋</mark> 也！然侍衞之臣，不懈於內；<mark class="hl-label purple">忠志之士</mark> ，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。誠宜開張聖聽，以光先帝遺德，恢弘志士之氣；不宜妄自菲薄，引喻失義，以塞忠諫之路也。<br>宮中、府中，俱為一體；陟罰臧否，不宜異同。若有<mark class="hl-label orange">作奸</mark> 、<mark class="hl-label green">犯科</mark> ，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。</p><p>作者: Jerry<br>連結: <a href="https://butterfly.js.org/posts/4aa8abbe/#label">https://butterfly.js.org/posts/4aa8abbe/#label</a><br>來源: Butterfly<br>著作權歸作者所有。商業轉載請聯絡作者獲得授權，非商業轉載請註明出處。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;臣亮言：&lt;mark class=&quot;hl-label default&quot;&gt;先帝&lt;/mark&gt; 創業未半，而&lt;mark class=&quot;hl-label blue&quot;&gt;中道崩殂&lt;/mark&gt; 。今天下三分，&lt;mark class=&quot;hl-label pink&quot;&gt;益州疲敝&lt;/mark&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>其他</title>
     <link href="http://example.com/2022/04/04/%E5%85%B6%E4%BB%96/"/>
     <id>http://example.com/2022/04/04/%E5%85%B6%E4%BB%96/</id>
     <published>2022-04-04T08:26:21.000Z</published>
-    <updated>2022-04-06T11:10:24.518Z</updated>
+    <updated>2022-04-07T10:09:52.120Z</updated>
     
-    <content type="html"><![CDATA[<p> 第三次测试  再次修改是否出错 </p><p><img src="https://s2.loli.net/2022/04/05/6zAfKCs1HpIQVEq.png" alt="图片1"></p><p>加载了图片，是否可以看到了？</p>]]></content>
+    <content type="html"><![CDATA[<p> 第三次测试  再次修改是否出错 </p><p><img src="https://s2.loli.net/2022/04/05/6zAfKCs1HpIQVEq.png" alt="图片1"></p><p>加载了图片，是否可以看到了？</p><p>臣亮言：<mark class="hl-label default">先帝</mark> 創業未半，而<mark class="hl-label blue">中道崩殂</mark> 。今天下三分，<mark class="hl-label pink">益州疲敝</mark> ，此誠<mark class="hl-label red">危急存亡之秋</mark> 也！然侍衞之臣，不懈於內；<mark class="hl-label purple">忠志之士</mark> ，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。誠宜開張聖聽，以光先帝遺德，恢弘志士之氣；不宜妄自菲薄，引喻失義，以塞忠諫之路也。<br>宮中、府中，俱為一體；陟罰臧否，不宜異同。若有<mark class="hl-label orange">作奸</mark> 、<mark class="hl-label green">犯科</mark> ，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。</p><p>作者: Jerry<br>連結: <a href="https://butterfly.js.org/posts/4aa8abbe/#label">https://butterfly.js.org/posts/4aa8abbe/#label</a><br>來源: Butterfly<br>著作權歸作者所有。商業轉載請聯絡作者獲得授權，非商業轉載請註明出處。</p>]]></content>
     
     
     <summary type="html">测试</summary>
