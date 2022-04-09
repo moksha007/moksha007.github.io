@@ -1,3 +1,4 @@
+http://example.com/Gallery/index.html
 http://example.com/about/index.html
 http://example.com/2022/04/07/%E6%A8%A1%E6%9D%BF/
 http://example.com/2022/04/04/%E5%85%B6%E4%BB%96/
