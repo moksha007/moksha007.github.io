@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>灵性的升进</title>
+  
+  <subtitle>获得自觉，提升灵性</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-04-11T02:54:50.714Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>moksha</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sahaja</title>
+    <link href="http://example.com/2022/04/11/sahaja/"/>
+    <id>http://example.com/2022/04/11/sahaja/</id>
+    <published>2022-04-11T02:54:50.000Z</published>
+    <updated>2022-04-11T02:54:50.714Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
