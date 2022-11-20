@@ -1,3 +1,5 @@
+http://mataji.cn/Gallery/guru/index.html
+http://mataji.cn/Gallery/index.html
 http://mataji.cn/2022/11/20/%E3%80%8A%E9%81%93%E5%BE%B7%E7%BB%8F%E3%80%8B%E8%A7%A3%E8%AF%BB/%E7%AC%AC10%E7%AB%A0%EF%BC%9A%E6%98%8E%E7%99%BD%E5%9B%9B%E8%BE%BE/
 http://mataji.cn/2022/11/20/%E3%80%8A%E9%81%93%E5%BE%B7%E7%BB%8F%E3%80%8B%E8%A7%A3%E8%AF%BB/%E7%AC%AC09%E7%AB%A0%EF%BC%9A%E6%8C%81%E8%80%8C%E7%9B%88%E4%B9%8B/
 http://mataji.cn/2022/11/20/%E3%80%8A%E9%81%93%E5%BE%B7%E7%BB%8F%E3%80%8B%E8%A7%A3%E8%AF%BB/%E7%AC%AC08%E7%AB%A0%EF%BC%9A%E4%B8%8A%E5%96%84%E8%8B%A5%E6%B0%B4/
@@ -17,8 +19,6 @@ http://mataji.cn/categories/index.html
 http://mataji.cn/tags/index.html
 http://mataji.cn/music/index.html
 http://mataji.cn/about/index.html
-http://mataji.cn/Gallery/index.html
-http://mataji.cn/Gallery/wallpaper/index.html
 http://mataji.cn/link/index.html
 http://mataji.cn/
 http://mataji.cn/tags/%E5%81%A5%E5%BA%B7/

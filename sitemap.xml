@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://mataji.cn/Gallery/guru/index.html</loc>
+    
+    <lastmod>2022-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://mataji.cn/Gallery/index.html</loc>
+    
+    <lastmod>2022-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://mataji.cn/2022/11/20/%E3%80%8A%E9%81%93%E5%BE%B7%E7%BB%8F%E3%80%8B%E8%A7%A3%E8%AF%BB/%E7%AC%AC10%E7%AB%A0%EF%BC%9A%E6%98%8E%E7%99%BD%E5%9B%9B%E8%BE%BE/</loc>
     
     <lastmod>2022-11-20</lastmod>
@@ -167,24 +185,6 @@
     <loc>http://mataji.cn/about/index.html</loc>
     
     <lastmod>2022-04-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://mataji.cn/Gallery/index.html</loc>
-    
-    <lastmod>2022-04-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://mataji.cn/Gallery/wallpaper/index.html</loc>
-    
-    <lastmod>2022-04-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
